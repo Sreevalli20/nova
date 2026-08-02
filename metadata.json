@@ -1,0 +1,12 @@
+{
+  "name": "Nova Sense AI",
+  "description": "Preventive Intelligence Platform for predicting risks, improving decisions, and simulating future outcomes before problems happen.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
