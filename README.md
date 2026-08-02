@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 NOVA SENSE AI
 
-# Run and deploy your AI Studio app
+## Prevent Problems Before They Happen
 
-This contains everything you need to run your app locally.
+NOVA SENSE AI is a **Preventive Intelligence Platform** that uses Artificial Intelligence to analyze situations, predict possible future risks, simulate outcomes, and provide personalized preventive solutions.
 
-View your app in AI Studio: https://ai.studio/apps/52383f21-ca45-4080-909e-4938004345bb
+Built for **IgniteX HackFest 2026**, the project focuses on transforming traditional reactive problem-solving into proactive decision intelligence.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+# 🌟 Problem
 
+Most existing systems react after problems occur.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Examples:
+
+- Students identify academic failure too late.
+- Businesses discover problems after losses happen.
+- Individuals recognize productivity and career issues after consequences appear.
+- Farmers detect agricultural problems after damage occurs.
+
+The world needs technology that can identify risks earlier and suggest preventive actions.
+
+---
+
+# 💡 Solution
+
+NOVA SENSE AI introduces a new concept:
+
+## Preventive Intelligence
+
+The system follows:
