@@ -2,31 +2,59 @@
 
 ## Prevent Problems Before They Happen
 
-NOVA SENSE AI is a **Preventive Intelligence Platform** that uses Artificial Intelligence to analyze situations, predict possible future risks, simulate outcomes, and provide personalized preventive solutions.
+NOVA SENSE AI is a Preventive Intelligence Platform that uses AI to predict risks, simulate future outcomes, and provide personalized solutions.
 
-Built for **IgniteX HackFest 2026**, the project focuses on transforming traditional reactive problem-solving into proactive decision intelligence.
+## 🌟 Problem
 
----
+Most systems react after problems occur. Students, businesses, farmers, and individuals often discover issues too late.
 
-# 🌟 Problem
+## 💡 Solution
 
-Most existing systems react after problems occur.
+NOVA SENSE AI transforms reactive problem-solving into proactive intelligence.
 
-Examples:
+Flow:
 
-- Students identify academic failure too late.
-- Businesses discover problems after losses happen.
-- Individuals recognize productivity and career issues after consequences appear.
-- Farmers detect agricultural problems after damage occurs.
+Understand → Predict → Recommend → Prevent
 
-The world needs technology that can identify risks earlier and suggest preventive actions.
+## ✨ Features
 
----
+- AI Risk Scanner
+- Future Simulation Engine
+- Decision Intelligence
+- Universal AI Problem Solver
+- AI Vision Analysis
+- Innovation Generator
+- Personal Intelligence Dashboard
 
-# 💡 Solution
+## ⚙️ Technology
 
-NOVA SENSE AI introduces a new concept:
+- HTML
+- CSS
+- JavaScript
+- Google AI Studio Gemini
+- Generative AI
+- Multimodal AI
 
-## Preventive Intelligence
+## 🎯 Applications
 
-The system follows:
+- Education
+- Healthcare
+- Agriculture
+- Business
+- Personal Growth
+
+## 🌍 Impact
+
+Helps people identify challenges early and make smarter decisions.
+
+## 🚀 Future Scope
+
+Enterprise AI assistant, smart education systems, healthcare intelligence, and industry solutions.
+
+## 🏆 Hackathon
+
+Built for IgniteX HackFest 2026.
+
+## Vision
+
+Creating AI that prevents problems before they become failures.
